@@ -1,0 +1,24 @@
+
+.home {
+    text-align: center;
+    margin-top: 2rem;
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.home h2 {
+    color: #ff9800;
+    font-size: 2.5rem;
+}
+
+.home p {
+    font-size: 1.2rem;
+}
