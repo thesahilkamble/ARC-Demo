@@ -1,6 +1,5 @@
 
 import React from 'react';
-import './Adoption.css';
 
 const Adoption = () => {
     return (
